@@ -1,4 +1,10 @@
 # Glossary-of-Electrical-Engineering-Terms
+
+## Goal： 
+
+After collecting the best in the existing resources, I should write a better one with the best knowledge. 
+## Objectives: 
+
 Glossary of Electrical Engineering Terms
 | company  |  Website | Type | Backup |
 |---|---|---|---|
